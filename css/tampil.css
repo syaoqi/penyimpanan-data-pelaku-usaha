@@ -1,0 +1,31 @@
+body{
+    background-image: url(q.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+h4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    font-size: medium;
+    top: 18%;
+    left: 43%;
+    transform: translate(-50%,-50);
+}
+.container{
+
+    background: #fff;
+}
+table{
+    margin-top: 10%;
+}
+.button{
+margin-left: 5%;
+float: right;  
+margin-top: 10%;
+margin-bottom:1% ; 
+}
+.input{
+margin-top:10% ;
+}
